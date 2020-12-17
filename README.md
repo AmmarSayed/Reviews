@@ -1,4 +1,4 @@
-# Tours
+# Reviews
 
 This is a project built to get hands on React useState useEffect and conditional rendering.
 
